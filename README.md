@@ -1,7 +1,22 @@
+###### [↩️Return to Portfolio](https://github.com/EricDelgado993/Portfolio)
 # Apple Picker Game
 
 ## Overview
 Apple Picker is an engaging Unity game where players control a basket to catch falling apples. Avoid missing apples to maintain your baskets and achieve the highest score. The game combines quick reflexes and strategic movement, with increasing difficulty as the apple tree continues to drop apples.
+
+---
+
+## 📂 **Project Files**
+- [Apple Picket.cs](https://github.com/EricDelgado993/Apple-Picker/blob/main/Assets/ApplePicker.cs)
+- [AppleTree.cs](https://github.com/EricDelgado993/Apple-Picker/blob/main/Assets/AppleTree.cs)
+- [Apple.cs](https://github.com/EricDelgado993/Apple-Picker/blob/main/Assets/Apple.cs)
+- [Basket.cs](https://github.com/EricDelgado993/Apple-Picker/blob/main/Assets/Basket.cs)
+- [HighScore.cs](https://github.com/EricDelgado993/Apple-Picker/blob/main/Assets/HighScore.cs)
+
+---
+
+## Screenshots
+![]() ![]()
 
 ---
 
