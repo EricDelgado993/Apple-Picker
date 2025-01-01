@@ -16,7 +16,7 @@ Apple Picker is an engaging Unity game where players control a basket to catch f
 ---
 
 ## Screenshots
-![]() ![]()
+![](https://github.com/EricDelgado993/Apple-Picker/blob/main/Screenshots/screen1.png)
 
 ---
 
