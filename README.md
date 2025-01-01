@@ -1,11 +1,11 @@
-# 🍎 Apple Picker Unity Game
+# Apple Picker Game
 
 ## Overview
 Apple Picker is an engaging Unity game where players control a basket to catch falling apples. Avoid missing apples to maintain your baskets and achieve the highest score. The game combines quick reflexes and strategic movement, with increasing difficulty as the apple tree continues to drop apples.
 
 ---
 
-## 🎮 Gameplay Features
+## Gameplay Features
 
 ### Core Gameplay
 - **Catch Apples:**
@@ -71,7 +71,7 @@ Apple Picker is an engaging Unity game where players control a basket to catch f
 
 ---
 
-## 🎨 Visual and UI Features
+## Visual and UI Features
 - **Score Display:**
   - Real-time score updates shown at the top of the screen.
 
