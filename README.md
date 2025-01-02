@@ -7,7 +7,7 @@ Apple Picker is an engaging Unity game where players control a basket to catch f
 ---
 
 ## 📂 **Project Files**
-- [Apple Picket.cs](https://github.com/EricDelgado993/Apple-Picker/blob/main/Assets/ApplePicker.cs)
+- [Apple Picker.cs](https://github.com/EricDelgado993/Apple-Picker/blob/main/Assets/ApplePicker.cs)
 - [AppleTree.cs](https://github.com/EricDelgado993/Apple-Picker/blob/main/Assets/AppleTree.cs)
 - [Apple.cs](https://github.com/EricDelgado993/Apple-Picker/blob/main/Assets/Apple.cs)
 - [Basket.cs](https://github.com/EricDelgado993/Apple-Picker/blob/main/Assets/Basket.cs)
